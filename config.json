@@ -1,6 +1,6 @@
 {
 	"ip":"bobobaba.aternos.me",
-	"port": "12693",
+	"port": "25565",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
